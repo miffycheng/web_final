@@ -1,0 +1,10 @@
+#citySelect {
+    font-size: 24px; 
+  }
+  
+.weather-icon {
+    font-size: 64px;
+    display: block; 
+    margin: 0 auto;
+    text-align: center; 
+  }
